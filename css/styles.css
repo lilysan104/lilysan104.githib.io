@@ -1,0 +1,264 @@
+body {
+	background: url(../img/aaa.jpg);
+	color: #ffffff;
+	font-family: "Arial Narrow";
+}
+
+h1 {
+	background: #3E0B5B;
+	font-family: "Impact";
+	color: #9B21E1;
+	font-size: 150px;
+	text-align: center;
+}
+h2{
+	background: #3E0B5B;
+	font-family:"Lucida Console";
+	color: #F7ACF5;
+		font-size:50px;
+		text-align: center;
+}
+h3{
+	background: #1B0A7A;
+	color:#C384ED;
+	font-family:"Bahnschrift";
+		font-size:30px;
+		text-align: center;
+}
+p{
+	background:#3E0B5B ;
+color: #C384ED;	
+font-family:"Bahnschrift";
+	font-size:20px;
+	margin: 30px 50px;
+	padding: 20px 50px;
+	line-height:30px;
+	word-spacing:15px;
+	
+}
+p a{
+	font-size:20px;
+	color:#2DECFF;
+		background:#2DECFF;
+		margin:10px 10px;
+	padding: 5px 5px;
+}
+a:link {
+	color:#7D03A4;
+}
+li a{
+	font-size:20px;
+}
+.rojo {
+	font-size:25px;
+	color:#a55100;
+	
+}
+p [href="https://www.ecured.cu/Discovery_Channel"]{
+	font-size:20px;
+	color:#FFFFFF;
+	background:#7201BC;
+	margin:10px 10px;
+	padding: 5px 5px;
+	}
+a:hover {
+	text-decoration: underline;
+	color: #E5C41E;
+}
+ .foto1{
+	 width: 500px;
+	 display:block;
+ }
+.foto2 {
+	width: 500px;
+	height: 250px;
+margin-left: 500px;
+}
+.menu {
+	background: #3E0B5B;
+	padding: 10px 100px;
+	color: blueviolet;
+}
+	.menu li {
+		display: inline-block;
+		text-decoration: none;
+		
+
+	}
+		.menu li a {
+			padding: 1px 90px;
+			padding-left: 30px;
+			display: inline-block;
+			color: antiquewhite;
+			text-decoration: none;
+		}
+		.menu li a:hover {
+			background: #9B21E1;
+		}
+table {
+	border: 1px solid #000;
+	border-collapse: collapse;
+	width: 600px 
+}
+	table td {
+		border: 1px solid #000;
+		padding: 15px 
+	}
+		table tr:hover {
+			background: #F70BDE;
+		}
+		table tr {
+			background: #36125B;
+		}
+form {
+	background: #68CCE0;
+	width: 93%;
+	border: 1px solid antiquewhite;
+	margin: 20px;
+	padding: 20px;
+}
+label {
+	font-size:10px;
+	display: block
+}
+Input, textarea {
+margin-bottom: 20px;
+width:100%;
+padding: 10px;
+
+}
+.foto3 {
+	width: 500px;
+	height: 250px;
+	display: block;
+	margin-top: 75px;
+	margin-left: 600px;
+}
+.foto4 {
+	width: 500px;
+	height: 250px;
+	display: block;
+	margin-left: 350px ;
+	padding: 75px;
+}
+.EDU {
+	background: #2DECFF;
+	padding: 10px 20px;
+	color: #000;
+	box-shadow: 0px 5px 0px #0D757F;
+	text-decoration: none;
+}
+	.EDU:hover {
+		background: #2DECFF;
+		padding: 10px 20px;
+		color: #E5C41E;
+		box-shadow: 0px 2px 0px #0D757F;
+		text-decoration: none;
+	}
+.ema {
+	background: #AE6DF0;
+	padding: 10px 50px;
+	color: #000;
+	box-shadow: 0px 5px 0px #3E0564;
+	text-decoration: none;
+
+}
+
+	.ema:hover {
+		background: #E3CDFA;
+		padding: 10px 50px;
+		color: #black;
+		box-shadow: 0px 2px 0px #black;
+		text-decoration: none;
+	}
+.w {
+	background: #3E0564;
+	width: 85%;
+
+}
+.list {
+	background: #3E0564;
+	margin-top: 50px;
+	padding: 30px 100px;
+}
+.T {
+	background: #170127;
+	color:#C384ED;
+	margin-top: 50px;
+	font-family: "Bahnschrift";
+	font-size: 40px;
+	margin: 30px 50px;
+	padding: 20px 50px;
+	line-height: 30px;
+	word-spacing: 15px;
+}
+.P {
+	background: #170127;
+	margin-top: 50px;
+	font-family: "Bahnschrift";
+	font-size: 40px;
+	margin: 30px 50px;
+	padding: 20px 50px;
+	line-height: 30px;
+	word-spacing: 15px;
+}
+.L {
+	background: #170127;
+	margin-top: 50px;
+	font-family: "Bahnschrift";
+	font-size: 40px;
+	margin: 30px 50px;
+	padding: 20px 50px;
+	line-height: 30px;
+	word-spacing: 15px;
+}
+.I {
+	background: #170127;
+	margin-top: 50px;
+	font-family: "Bahnschrift";
+	font-size: 40px;
+	margin: 30px 50px;
+	padding: 10px 10px;
+	line-height: 30px;
+	word-spacing: 15px;
+	text-align: center;
+}
+.K {
+	background: #F83CED;
+	color:B406FF;
+	margin-top: 50px;
+	font-family: "Rockwell Extra Bold";
+	font-size: 40px;
+	margin: 30px 50px;
+	padding: 20px 50px;
+	line-height: 30px;
+	word-spacing: 15px;
+}
+ojo{
+	width: 40px;
+	padding: 10px
+}
+.imagen{
+	width:40px;
+	background:blue;
+	margin-top:0px;
+	top:109px;
+}
+.zzz{
+	background: #FF3E35;
+	margin-top: 50px;
+	font-family: "Bahnschrift";
+	font-size: 40px;
+	margin: 30px 50px;
+	padding: 20px 50px;
+	line-height: 30px;
+	word-spacing: 15px;
+}
+.foto5 {
+	width: 700px;
+
+	display: block;
+	margin-top: 75px;
+	margin-left: 425px;
+	
+}

@@ -1,0 +1,72 @@
+body{
+	background: url(../img/z.jpg);
+	color:#FFFFFF
+}
+
+h1{
+	background: #812c1a;
+	font-family:"fantasy";
+	color: #DC56CB;
+	font-size:100px;
+text-align: center;
+}
+h2{
+	background: #812c1a;
+	font-family:"Lucida Console";
+	color: #f5eb98;
+		font-size:50px;
+		text-align: center;
+}
+h3{
+	background: #f2d650;
+	color:#000;
+	font-family:"Bahnschrift";
+		font-size:30px;
+		text-align: center;
+}
+p{
+	background:#7201BC ;
+color: #FFFFFF;	
+font-family:"Bahnschrift";
+	font-size:20px;
+	margin: 30px 50px;
+	padding: 20px 50px;
+	line-height:30px;
+	word-spacing:15px;
+	
+}
+p a{
+	font-size:20px;
+	color:#50110e;
+		background:#2DECFF;
+		margin:10px 10px;
+	padding: 5px 5px;
+}
+a:link {
+	color:#E5C41E;
+}
+li a{
+	font-size:20px;
+}
+.rojo {
+	font-size:25px;
+	color:#a55100
+	
+}
+p [href="https://www.ecured.cu/Discovery_Channel"]{
+	font-size:20px;
+	color:#50110e;
+	background:#E5661E;
+	margin:10px 10px;
+	padding: 5px 5px;
+	}
+a:hover {
+	text-decoration: underline;
+	color: #E5C41E;
+}
+ .foto1{
+	 display:block;
+ }
+	
+	
+	
